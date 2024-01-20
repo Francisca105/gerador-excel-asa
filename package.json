@@ -1,0 +1,14 @@
+{
+  "name": "gerador",
+  "version": "1.0.0",
+  "description": "Converter os dados json para dados num excel",
+  "main": "script.js",
+  "scripts": {
+    "test": "node . --watch"
+  },
+  "author": "Francisca Vicente de Almeida <franciscaalmeida023@gmail.com> (https://github.com/Francisca105/)",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
